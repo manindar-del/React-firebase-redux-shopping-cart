@@ -1,0 +1,10 @@
+{
+  "errorList": {
+    "email": "Email address is required",
+    "currectemail": "Please enter your email address",
+    "password": "Password is required",
+    "confirmPassword": "Confirm Password is a required",
+    "name": "Name is required",
+    "matchPassword": "New password and Repeat password Must Match"
+  }
+}
